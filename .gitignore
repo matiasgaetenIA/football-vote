@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+.next/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Archivos de Hardhat
+contracts/ignition/deployments/
+contracts/artifacts/
+contracts/cache/
+
+# Archivos secretos
+*.pem
+*.key

@@ -19,7 +19,7 @@ El smart contract en Avalanche Fuji garantiza las reglas sin intermediarios:
   - https://testnet.snowtrace.io/tx/0x0c4623b03ce425b3f26ecd2218381230f9db9fce72c396da88596e169faca4da
 
 ## 🌐 Demo en vivo
-- **URL:** *(Pendiente de despliegue en Vercel — Paso 10)*
+- **URL:** https://weblockchain.vercel.app/
 
 ## 📁 Estructura del proyecto
 - `contracts/`: Smart contract en Solidity (`FootballVote.sol`) con Hardhat 3 + viem y pruebas.
